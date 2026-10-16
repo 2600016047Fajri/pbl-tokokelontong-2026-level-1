@@ -4,7 +4,7 @@
 
 | Nama | NIM | Phase Lead untuk Fase |
 |---|---|---|
-| [Nama 1] | [NIM] | Discover, Build |
+| [Fajri Alfiturrahman] | [NIM] | Discover, Build |
 | [Nama 2] | [NIM] | Frame, Test |
 | [Nama 3] | [NIM] | Define, Communicate |
 | [Nama 4] | [NIM] | Design, Reflect |
