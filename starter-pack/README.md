@@ -1,22 +1,23 @@
-# [NAMA TIM] — Digital Problem Framing Mini Project
+# [TOKO KELONTONG BU YATI] — Digital Problem Framing Mini Project
 
 ## Tim
 
 | Nama | NIM | Phase Lead untuk Fase |
 |---|---|---|
-| [Fajri Alfiturrahman] | [NIM] | Discover, Build |
-| [Nama 2] | [NIM] | Frame, Test |
-| [Nama 3] | [NIM] | Define, Communicate |
-| [Nama 4] | [NIM] | Design, Reflect |
+| [Fajri Alfiturrahman] | [2600016047] | Discover, Build |
+| [Muhammad Khoirul Anam] | [2600016037] | Frame, Test |
+| [Muh Ali NP] | [2600016048] | Define, Communicate |
+| [Habib Reifan Alfarisi] | [2600016012] | Design, Reflect |
+| [Muhammad Faqih Hammam] | [2600016017] |
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [contoh: Kantin Kampus "Makmur"]
-- **Lokasi**: [contoh: Gedung A, Lantai 1]
-- **Pemilik**: [nama, kontak]
-- **Jenis Usaha**: [contoh: Kantin / Warung / Koperasi]
+- **Nama Unit Usaha**: [Toko Kelontong Bu Yati]
+- **Lokasi**: [Jl. Potronanggan No.31 Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191]
+- **Pemilik**: [Bu Yati]
+- **Jenis Usaha**: [Toko kelontong]
 
 ## Driving Question
 
