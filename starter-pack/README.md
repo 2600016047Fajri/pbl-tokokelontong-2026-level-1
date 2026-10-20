@@ -1,4 +1,4 @@
-# [TOKO KELONTONG BU YATI] — Digital Problem Framing Mini Project
+# [TOKO KELONTONG MIAYU BU YATI] — Digital Problem Framing Mini Project
 
 ## Tim
 
