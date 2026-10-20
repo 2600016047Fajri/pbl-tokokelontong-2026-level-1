@@ -14,7 +14,7 @@
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [Toko Kelontong Bu Yati]
+- **Nama Unit Usaha**: [Toko Kelontong Miayu Bu Yati]
 - **Lokasi**: [Jl. Potronanggan No.31 Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191]
 - **Pemilik**: [Bu Yati]
 - **Jenis Usaha**: [Toko kelontong]
