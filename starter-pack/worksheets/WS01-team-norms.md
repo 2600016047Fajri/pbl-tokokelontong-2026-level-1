@@ -20,7 +20,7 @@
 
 | Fase | Minggu | Phase Lead | Tanggung Jawab Utama Coverage |
 |---|---|---|---|
-| Discover | 1 | [Nama] | Koordinasi pembentukan tim, norma, peluncuran |
+| Discover | 1 | [Fajri Alfiturrahman] | Koordinasi pembentukan tim, norma, peluncuran |
 | Frame | 2 | [Nama] | Koordinasi observasi & wawancara lapangan |
 | Define | 3–4 | [Nama] | Koordinasi kebutuhan & metrik sukses |
 | Design | 5–7 | [Nama] | Koordinasi desain solusi & sesi critik |
