@@ -1,7 +1,7 @@
 # D2 — System & Solution Design
 
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — [Toko kelontong MIayu Bu Yati]
+**Tim**: [Young Achievers] | **Tanggal**: [11/11/2026] | **Versi**: [v1.0]
 **Template**: TPL-02
 
 > **Petunjuk**: Hapus teks dalam `[...]` setelah diisi.
