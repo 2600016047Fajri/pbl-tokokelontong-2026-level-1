@@ -6,9 +6,10 @@
 |---|---|---|
 | [Fajri Alfiturrahman] | [2600016047] | Discover, Build |
 | [Muhammad Khoirul Anam] | [2600016037] | Frame, Test |
-| [Muh Ali NP] | [2600016048] | Define, Communicate |
+| [Muh Ali NP] | [2600016048] | Communicate |
 | [Habib Reifan Alfarisi] | [2600016012] | Design, Reflect |
 | [Muhammad Faqih Hammam] | [2600016017] |
+Define
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
 
