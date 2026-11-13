@@ -23,7 +23,7 @@
 | Discover | 1 | [Fajri Alfiturrahman] | Koordinasi pembentukan tim, norma, peluncuran |
 | Frame | 2 | [Muhammad Khoirul Anam] | Koordinasi observasi & wawancara lapangan |
 | Define | 3–4 | [Muh Ali NP] | Koordinasi kebutuhan & metrik sukses |
-| Design | 5–7 | [Habib Reifan] | Koordinasi desain solusi & sesi critik |
+| Design | 5–7 | [Habib Reifan Alfarisi] | Koordinasi desain solusi & sesi critik |
 | Build | 9–12 | [Muhammad Faqih Hammam] | Koordinasi pengkodean prototipe |
 | Test | 11–12 | [Muhammad Khoirul anam] | Koordinasi pengujian & validasi |
 | Communicate | 14–15 | [Habib Reifan Alfarisi] | Koordinasi penyusunan presentasi publik |
