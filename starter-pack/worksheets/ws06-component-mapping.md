@@ -30,7 +30,7 @@ Keterkaitan Deliverable: **Bahan Utama Deliverable D1 Final (TPL-01) & D2 Draf (
 | **Dimensi Metrik**         | **Parameter Kinerja**                    | **Kondisi Baseline (As-Is)** | **Target Solusi (To-Be)** | **Metode Pengukuran**         |
 | -------------------------- | ---------------------------------------- | ---------------------------- | ------------------------- | ----------------------------- |
 | **Efisiensi (Waktu)**      | Durasi pelayanan transaksi per pelanggan | 5 menit                      | 3 menit                   | Stopwatch sampel 10 transaksi |
-| **Efisiensi (Waktu)**      | Durasi rekapitulasi harian pemilik       | 30 menit /malam              | 15 menit / malam          | Wawancara & uji coba langsung |
+| **Efisiensi (Waktu)**      | Durasi rekapitulasi harian pemilik       | 30 menit / minggu              | 15 menit / minggu          | Wawancara & uji coba langsung |
 | **Efektivitas (Akurasi)**  | Tingkat selisih pencatatan stok barang   | % selisih / bulan            | % selisih / bulan         | Stock opname bulanan          |
 | **Efektivitas (Kualitas)** | Frekuensi kesalahan hitung nota          | kali / minggu                | kali / minggu             | Audit sampel lembar nota      |
 
