@@ -19,7 +19,7 @@
 | **Nama Kelompok / Kelas**      | Young Achievers / Kelas A              |
 | **Phase Lead 2 (Frame - M2)**  | Muhammad Khoirul Anam-2600016037       |
 | **\-Nama UMKM Mitra Lapangan** | Toko Kelontong Miayu Bu Yati           |
-| **Pemilik / Kontak Mitra**     | Bapak                                  |
+| **Pemilik / Kontak Mitra**     | Bapak Supanja                                 |
 
 ## 2. Matriks Problem Framing & Analisis Akar Masalah (Root Cause Analysis)
 
